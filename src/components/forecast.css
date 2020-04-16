@@ -1,0 +1,12 @@
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card-wrapper .card {
+    margin-right: 15px;
+}
+.card-wrapper .card .card-body .card-text {
+    text-align: left;
+}

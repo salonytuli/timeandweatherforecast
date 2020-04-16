@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`forecast screen should match snapshot 1`] = `undefined`;
+
+exports[`forecast should match snapshot 1`] = `undefined`;
